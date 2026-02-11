@@ -125,9 +125,6 @@
     "bastardkb/skeletyl/v2/splinky_2": {
         "target": "bastardkb/skeletyl/promicro"
     },
-    "bastardkb/skeletyl/v2/splinky_3": {
-        "target": "bastardkb/skeletyl/promicro"
-    },
     "bastardkb/skeletyl/v2/stemcell": {
         "target": "bastardkb/skeletyl/promicro"
     },

@@ -40,7 +40,7 @@
 
 #define HOME_N RSFT_T(DE_N)
 #define HOME_R LCTL_T(DE_R)
-#define HOME_S RALT_T(DE_S)
+#define HOME_S LALT_T(DE_S)   // was RALT_T — testing if Windows intercepts RALT
 #define HOME_G LGUI_T(DE_G)
 
 #define RALT_X RALT_T(KC_X)
